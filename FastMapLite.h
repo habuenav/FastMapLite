@@ -13,7 +13,7 @@ private:
   float _factor, _base;
 };
 
-FastMap::FastMapLite()
+FastMapLite::FastMapLite()
 {
   init(0, 1, 0, 1);
 }
